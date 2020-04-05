@@ -102,13 +102,13 @@ line-height: 1.5;
 
 list-style-type: none;
 background-color: rgb(170, 159, 159);
-font-family: monospace;
-font-size: 2rem;
+font-size: 1em;
 border-radius: 15px;
 margin: 0px 110px;
 padding-bottom: 10px;
 padding-top: 10px;
 }
+
 
 img  {
 position: initial;
