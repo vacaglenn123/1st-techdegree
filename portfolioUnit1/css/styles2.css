@@ -53,9 +53,17 @@ body {
 
 } */
 
+.tag {
+  background-color: #efefef;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  display: table;
+  margin: 10px auto;
+} 
 
 header {
-text-align: bottom;
+  text-align: center;
   background: url(../images/ocean.jpg);
   background-size: 100% 100%;
   /* image-rendering: -webkit-optimize-contrast; */
@@ -63,8 +71,7 @@ text-align: bottom;
   /* image-rendering: crisp-edges; */
   /* image-rendering: pixelated; */
   overflow: hidden;
-  padding-top: 10px;
-  padding-bottom: 10px;
+ 
   background-repeat: no-repeat;
 }
 header {
