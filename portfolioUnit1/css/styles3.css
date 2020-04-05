@@ -11,6 +11,20 @@ body {
   background: #f7f5f0;
 }
 
+header .profile-image {
+  margin-top: 50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 90%;
+  border: 5px ridge rgb(235, 64, 52);
+  transition: all 0.3s;
+
+}
+
+header .profile-image:hover {
+  transform: scale(1.2) rotate(5deg);
+}
+
 a {
   text-decoration: none;
   color: #999;
