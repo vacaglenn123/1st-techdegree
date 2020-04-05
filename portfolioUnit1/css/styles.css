@@ -40,11 +40,7 @@ a:hover {
   padding: 0;
 }
 
-.nav .name {
-    display: block;
-    margin-right: auto;
-    color: white;
-}
+
 .nav li {
   padding: 5px 10px 10px 10px;
 }
@@ -67,6 +63,7 @@ header {
   padding-top: 10px;
   padding-bottom: 20px;
 }
+
 header {
   line-height: 1.5;
 }

@@ -32,26 +32,12 @@ body {
   padding: 0;
 }
 
-.nav li {
- display: block;
-    margin-right: auto;
-    color: white;
-
-}
-
 .nav a {
   transition: all .5s;
 }
 .nav a:hover {
   color: white
 }
-
-/* .nav.name {
-    display: block;
-    margin-right: auto;
-    color: white;
-
-} */
 
 .tag {
   background-color: #efefef;
