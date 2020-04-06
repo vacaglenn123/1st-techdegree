@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif, Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif;
   color: #222;
   background: #f7f5f0;
 }
@@ -39,7 +39,11 @@ a:hover {
   margin: 0 auto;
   padding: 0;
 }
+  
+.nav .name {
 
+  color: white;
+}
 
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -55,7 +59,7 @@ header {
   text-align: center;
   background:url('../images/LA2.jpg')  no-repeat;
   background-size: 100% 100%;
-  image-rendering: -webkit-optimize-contrast;
+  /* image-rendering: -webkit-optimize-contrast; */
   /* image-rendering: auto; */
   /* image-rendering: crisp-edges; */
   /* image-rendering: pixelated; */
